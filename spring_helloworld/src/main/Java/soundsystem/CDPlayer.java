@@ -4,6 +4,7 @@ import org.springframework.stereotype.Component;
 
 @Component  // 组件
 public class CDPlayer implements MediaPlayer {
+	// 媒体播放器，用CD来实现播放
 	private CompactDisc cd;
 
 	@Autowired  // 自动装配
