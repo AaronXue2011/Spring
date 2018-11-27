@@ -11,7 +11,7 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration(locations="classpath:META-INF/spring/soundsystem.xml")    // 指定spring的xml配置文件
+@ContextConfiguration(locations="classpath:META-INF/spring/autoconfig.xml")    // 指定spring的xml配置文件
 public class CDPlayerXMLConfigTest {
 
 	@Rule
