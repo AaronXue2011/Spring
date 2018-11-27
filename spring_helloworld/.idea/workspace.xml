@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f538cb0a-85df-4dc6-b6f6-2834c96f46b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/spring/app-context.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2058987547">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="8" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="8" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software/apache-maven-3.5.4" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring_helloworld Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring_helloworld Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-324" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring_helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_helloworld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CDPlayerTest.play">
+    <configuration name="CDPlayerTest.cdShouldNotBeNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jwl.bean.autoconfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jwl.bean.autoconfig" />
+      <option name="MAIN_CLASS_NAME" value="com.jwl.bean.autoconfig.CDPlayerTest" />
+      <option name="METHOD_NAME" value="cdShouldNotBeNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CDPlayerTest.play (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jwl.bean.autoconfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jwl.bean.autoconfig" />
+      <option name="MAIN_CLASS_NAME" value="com.jwl.bean.autoconfig.CDPlayerTest" />
+      <option name="METHOD_NAME" value="play" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CDPlayerTest.play" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jwl.bean.javaconfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jwl.bean.javaconfig" />
+      <option name="MAIN_CLASS_NAME" value="com.jwl.bean.javaconfig.CDPlayerTest" />
+      <option name="METHOD_NAME" value="play" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CDPlayerXMLConfigTest.cdShouldNotBeNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jwl.bean.autoconfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jwl.bean.autoconfig" />
+      <option name="MAIN_CLASS_NAME" value="com.jwl.bean.autoconfig.CDPlayerXMLConfigTest" />
+      <option name="METHOD_NAME" value="cdShouldNotBeNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CDPlayerXMLConfigTest.play" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jwl.bean.autoconfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jwl.bean.autoconfig" />
+      <option name="MAIN_CLASS_NAME" value="com.jwl.bean.autoconfig.CDPlayerXMLConfigTest" />
+      <option name="METHOD_NAME" value="play" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CDPlayerTest.cdShouldNotBeNull" />
+      <item itemvalue="JUnit.CDPlayerTest.play" />
+      <item itemvalue="JUnit.CDPlayerTest.play (1)" />
+      <item itemvalue="JUnit.CDPlayerXMLConfigTest.cdShouldNotBeNull" />
+      <item itemvalue="JUnit.CDPlayerXMLConfigTest.play" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CDPlayerTest.play" />
+        <item itemvalue="JUnit.CDPlayerXMLConfigTest.play" />
+        <item itemvalue="JUnit.CDPlayerXMLConfigTest.cdShouldNotBeNull" />
+        <item itemvalue="JUnit.CDPlayerTest.play (1)" />
+        <item itemvalue="JUnit.CDPlayerTest.cdShouldNotBeNull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f538cb0a-85df-4dc6-b6f6-2834c96f46b5" name="Default Changelist" comment="" />
+      <created>1543300475497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543300475497</updated>
+      <workItem from="1543300476851" duration="103000" />
+      <workItem from="1543300584329" duration="1661000" />
+      <workItem from="1543309386038" duration="403000" />
+    </task>
+    <task id="LOCAL-00001" summary="代码格式">
+      <created>1543301211864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543301211864</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CD播放器的实现类">
+      <created>1543301232060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543301232060</updated>
+    </task>
+    <task id="LOCAL-00003" summary="媒体播放器接口">
+      <created>1543301253377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543301253377</updated>
+    </task>
+    <task id="LOCAL-00004" summary="在Java中进行显式配置Spring">
+      <created>1543301377630</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543301377630</updated>
+    </task>
+    <task id="LOCAL-00005" summary="改进代码缩进">
+      <created>1543301399156</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543301399156</updated>
+    </task>
+    <task id="LOCAL-00006" summary="。。。">
+      <created>1543301413695</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1543301413695</updated>
+    </task>
+    <task id="LOCAL-00007" summary="格式化代码格式">
+      <created>1543301823849</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1543301823849</updated>
+    </task>
+    <task id="LOCAL-00008" summary="更改xml配置文件名">
+      <created>1543308703960</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1543308703960</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CDPlayerTest_cdShouldNotBeNull - 2018.11.27 at 17h 05m 05s.xml">
+      <configuration name="CDPlayerTest.cdShouldNotBeNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDPlayerTest_play_(1) - 2018.11.27 at 17h 05m 11s.xml">
+      <configuration name="CDPlayerTest.play (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDPlayerXMLConfigTest_cdShouldNotBeNull - 2018.11.27 at 17h 05m 19s.xml">
+      <configuration name="CDPlayerXMLConfigTest.cdShouldNotBeNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDPlayerXMLConfigTest_play - 2018.11.27 at 17h 05m 22s.xml">
+      <configuration name="CDPlayerXMLConfigTest.play" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDPlayerTest_play - 2018.11.27 at 17h 05m 27s.xml">
+      <configuration name="CDPlayerTest.play" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="551000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-324" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17803837" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32977587" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32977587" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32977587" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32977587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="代码格式" />
+    <MESSAGE value="CD播放器的实现类" />
+    <MESSAGE value="媒体播放器接口" />
+    <MESSAGE value="在Java中进行显式配置Spring" />
+    <MESSAGE value="改进代码缩进" />
+    <MESSAGE value="。。。" />
+    <MESSAGE value="格式化代码格式" />
+    <MESSAGE value="更改xml配置文件名" />
+    <option name="LAST_COMMIT_MESSAGE" value="更改xml配置文件名" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-807" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/soundsystem/CompactDisc.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Java/soundsystem/MediaPlayer.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/soundsystem/CDPlayerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Java/soundsystem/CDPlayerConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Java/soundsystem/SgtPeppers.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/soundsystem/CDPlayerXMLConfigTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Java/soundsystem/CDPlayer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/jwl/bean/autoconfig/CDPlayerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/META-INF/spring/autoconfig.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jwl/bean/autoconfig/CDPlayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jwl/bean/autoconfig/CDPlayerXMLConfigTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="13" column="98" lean-forward="true" selection-start-line="13" selection-start-column="98" selection-end-line="13" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jwl/bean/javaconfig/CDPlayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/jwl/bean/javaconfig/CDPlayerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/autoconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="67" lean-forward="true" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
