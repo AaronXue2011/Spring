@@ -1,2 +1,13 @@
-.class
-spring_helloworld/target/test-classes/log4j.properties
+Thumbs.db
+.DS_Store
+.gradle
+build
+bin
+.classpath
+.project
+.settings
+.springBeans
+exploration
+*.iml
+*.ipr
+*.iws
