@@ -32,7 +32,7 @@ public class CDPlayerTest {
 
     @Test
     public void play() {
-    player.play();
+        player.play();
         // 断言，判断两个字符串是否相等
         assertEquals("Playing Sgt. Pepper's Lonely Hearts Club Band by The Beatles",log.getLog());
     }
