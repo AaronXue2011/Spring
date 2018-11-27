@@ -1,4 +1,4 @@
-package soundsystem;
+package com.jwl.bean.autoconfig;
 
 import static org.junit.Assert.*;
 

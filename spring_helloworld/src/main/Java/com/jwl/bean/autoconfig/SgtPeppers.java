@@ -1,4 +1,4 @@
-package soundsystem;
+package com.jwl.bean.autoconfig;
 import org.springframework.stereotype.Component;
 
 // @Component注解。这个简单的注解表明该类会作为组件类，并告知Spring要为这个类创建bean。
