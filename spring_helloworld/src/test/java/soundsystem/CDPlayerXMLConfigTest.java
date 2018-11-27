@@ -11,29 +11,27 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration(locations="classpath:META-INF/spring/soundsystem.xml")
+@ContextConfiguration(locations="classpath:META-INF/spring/soundsystem.xml")    // 指定spring的xml配置文件
 public class CDPlayerXMLConfigTest {
 
-  @Rule
-  public final StandardOutputStreamLog log = new StandardOutputStreamLog();
+	@Rule
+	public final StandardOutputStreamLog log = new StandardOutputStreamLog();
 
-  @Autowired
-  private MediaPlayer player;
+	@Autowired
+	private MediaPlayer player;
 
-  @Autowired
-  private CompactDisc cd;
+	@Autowired
+	private CompactDisc cd;
 
-  @Test
-  public void cdShouldNotBeNull() {
-    assertNotNull(cd);
-  }
-  
-  @Test
-  public void play() {
-    player.play();
-    assertEquals(
-        "Playing Sgt. Pepper's Lonely Hearts Club Band by The Beatles\n", 
-        log.getLog());
-  }
+	@Test
+	public void cdShouldNotBeNull() {
+		assertNotNull(cd);
+	}
+
+	@Test
+	public void play() {
+		player.play();
+		assertEquals("Playing Sgt. Pepper's Lonely Hearts Club Band by The Beatles", log.getLog());
+	}
 
 }
