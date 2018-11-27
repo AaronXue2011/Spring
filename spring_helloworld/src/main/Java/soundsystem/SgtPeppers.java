@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 // 不过，组件扫描默认是不启用的。我们还需要显式配置一下Spring，
 // 从而命令它去寻找带有@Component注解的类，并为其创建bean。
 @Component
-public class SgtPeppers implements CompactDisc {
+public class SgtPeppers implements CompactDisc {    // CD播放器的实现类
 
     private String title = "Sgt. Pepper's Lonely Hearts Club Band";
     private String artist = "The Beatles";
